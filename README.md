@@ -14,6 +14,6 @@ In order to run the code, you need to run the commands below:
 
 Code is based on [Sign Language Detection using ACTION RECOGNITION with Python | LSTM Deep Learning Model](https://www.youtube.com/watch?v=doDUihpj6ro) and can all be run in the notebook. 
 
-Webpage for project with slides, demonstration images of inferencing, poster and related works can be found [here]().
+Webpage for project with slides, demonstration images of inferencing, poster and related works can be found [here](https://sites.google.com/view/cs5243finalproject/home).
 
 
